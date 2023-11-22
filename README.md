@@ -8,3 +8,5 @@ This is a hobby project I did when I was learning ReactJS.
 2.  From the root directory, run `npm install`
 3.  Once the installation is complete. Run `npm start`
 4.  Go to http://localhost:3000
+
+![Main App Component]("./screenshots/MainApp.png")
